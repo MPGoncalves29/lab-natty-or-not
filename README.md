@@ -1,7 +1,7 @@
 # Podcast com avatar virtual
 
 ## 📒 Descrição
-Utilizei o audio do podcast que tinha feito anteriormente e juntei ele com um avatar virtual do D-ID.
+Utilizei o audio do podcast que tinha feito anteriormente em outra atividade e juntei ele com um avatar virtual do D-ID.
 
 ## 🤖 Tecnologias Utilizadas
 ElevenLabs
